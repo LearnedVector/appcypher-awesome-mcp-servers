@@ -376,6 +376,8 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 - <img src="https://www.creatify.ai/favicon.ico" height="14"/> [Creatify](https://github.com/TSavo/creatify-mcp) - MCP Server that exposes Creatify AI API capabilities for AI video generation, including avatar videos, URL-to-video conversion, text-to-speech, and AI-powered editing tools.
 - <img src="https://www.svgrepo.com/show/495208/data.svg" height="14"/> [ZenML](https://github.com/zenml-io/mcp-zenml)<sup><sup>⭐</sup></sup> - Chat with your MLOps and LLMOps pipelines using the [ZenML](https://www.zenml.io) MCP server
 
+- [Audo](https://github.com/audo-ai/audo-mcp) - Hosted MCP server for [Audo](https://audo.ai): remove noise, restore speech, transcribe, and edit audio and video files. Streamable HTTP with OAuth.
+
 <br />
 
 ## 💻 <a name="development-tools"></a>Development Tools
