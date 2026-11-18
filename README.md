@@ -377,6 +377,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 - <img src="https://www.svgrepo.com/show/495208/data.svg" height="14"/> [ZenML](https://github.com/zenml-io/mcp-zenml)<sup><sup>⭐</sup></sup> - Chat with your MLOps and LLMOps pipelines using the [ZenML](https://www.zenml.io) MCP server
 
 <br />
+- <img src="https://raw.githubusercontent.com/audo-ai/audo-mcp/main/logo.png" height="14"/> [Audo AI](https://github.com/audo-ai/audo-mcp) - Process uploaded audio and video through a hosted MCP server for noise removal, captioning, and transcription.
 
 ## 💻 <a name="development-tools"></a>Development Tools
 
